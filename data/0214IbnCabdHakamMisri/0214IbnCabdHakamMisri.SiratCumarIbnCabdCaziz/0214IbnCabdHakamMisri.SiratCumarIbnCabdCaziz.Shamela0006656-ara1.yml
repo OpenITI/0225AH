@@ -3,10 +3,13 @@
 00#VERS#URI######: 0214IbnCabdHakamMisri.SiratCumarIbnCabdCaziz.Shamela0006656-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770165796
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770165796
-80#VERS#LINKS####:
-    https://ia800605.us.archive.org/26/items/waq72023/72023.pdf
+80#VERS#LINKS####: 
+            https://ia800605.us.archive.org/26/items/waq72023/72023.pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Page 37 and a paragraph in page 127-128 are repeated
-    redundantly.
+            redundantly.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-10-30
-90#VERS#ISSUES###: HTML_TAGS, REDUNDANT_PARTS
+90#VERS#ISSUES###: HTML_TAGS, REDUNDANT_PARTS, PRIMARY_VERSION, CLEANED_VERSION

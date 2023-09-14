@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 363620
-00#VERS#LENGTH###: 84253
+00#VERS#CLENGTH##: 363281
+00#VERS#LENGTH###: 84165
 00#VERS#URI######: 0218HajjajIbnYusufIbnMatar.Majisti.PAL066800970-ara1
 80#VERS#BASED####: https://ptolemaeus.badw.de/work/200
 80#VERS#COLLATED#: https://ptolemaeus.badw.de/work/200
@@ -24,6 +24,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0225AH/pre-clean/data/0218HajjajIbnYusufIbnMatar/0218HajjajIbnYusufIbnMatar.Majisti/0218HajjajIbnYusufIbnMatar.Majisti.PAL066800970-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0225AH/pre-
+    clean/data/0218HajjajIbnYusufIbnMatar/0218HajjajIbnYusufIbnMatar.Majisti/0218HajjajIbnYusufIbnMatar.Majisti.PAL066800970-ara1.completed
 90#VERS#DATE#####: 2020-12-02
 90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Traditionist, poet and historian. Worked as secretary undr al-Ma'mun.
     Wrote a (lost) book about Medina, often quoted by ʿUmar b. Shabba. See GAS 14.345-346.

@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q16126384
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: Traditionist who transmitted poetry and akhbār. 
+90#AUTH#COMMENT##: Traditionist who transmitted poetry and akhbār.
     Wrote a (lost) book about Baṣra, often quoted by Balādhurī. See GAS 14.344-345.
